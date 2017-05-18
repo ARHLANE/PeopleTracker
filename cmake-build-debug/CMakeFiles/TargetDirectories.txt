@@ -1,0 +1,3 @@
+/home/dilin/CLionProjects/PeopleTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dilin/CLionProjects/PeopleTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dilin/CLionProjects/PeopleTracker/cmake-build-debug/CMakeFiles/PeopleTracker.dir

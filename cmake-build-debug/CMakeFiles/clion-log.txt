@@ -1,0 +1,5 @@
+/home/dilin/clion-2016.3.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dilin/CLionProjects/PeopleTracker
+-- Found OpenCV: /usr/local (found version "3.2.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dilin/CLionProjects/PeopleTracker/cmake-build-debug
